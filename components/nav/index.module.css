@@ -1,0 +1,29 @@
+.navigationBar {
+  width: 6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 117px 0 40px;
+  animation: left 1s var(--navigation-bar-delay) both;
+  padding-top: 90px;
+  gap: 20px;
+}
+.navigationBar a {
+  padding: 6px;
+}
+.navigationBar a:last-child {
+  justify-self: flex-end;
+}
+
+@keyframes left {
+  0% {
+    transform: translateX(-30px);
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
