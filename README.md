@@ -6,6 +6,11 @@ Tasarımını kullanmama izin verdiği için [Ayşenur](https://twitter.com/Aysn
 
 Template için [Adem İLTER](https://ademilter.com/) 'e teşekkürler.
 
+### Links
+
+-   [Website](https://customer-management-next.vercel.app/)
+-   [Style Guide](https://customer-management-next.vercel.app/ui/index.html)
+
 ### Tools
 
 -   [React](https://reactjs.org)
@@ -15,10 +20,10 @@ Template için [Adem İLTER](https://ademilter.com/) 'e teşekkürler.
 
 ### TODO
 
--   [x] Tema desteği
--   [x] Componenlerin hazırlanması
--   [x] Deployment
--   [x] Storybook desteği
+-   [x] Tema desteği ✅
+-   [x] Componenlerin hazırlanması ✅
+-   [x] Deployment ✅
+-   [x] Storybook desteği ✅
 -   [ ] Tema renklerinin geliştirilmesi
 
 ## Getting Started
