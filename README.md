@@ -2,7 +2,7 @@
 
 Tasarımını kullanmama izin verdiği için [Ayşenur](https://twitter.com/AysnrTrkk) 'a ayrıca teşekkürler.
 
-## [Adem İLTER](https://ademilter.com/) 'in hazırlamış olduğu [Next Template](https://github.com/ademilter/next-template) kullanışmıştır.
+## [Adem İLTER](https://ademilter.com/) 'in hazırlamış olduğu [Next Template](https://github.com/ademilter/next-template) kullanılmıştır.
 
 Template için [Adem İLTER](https://ademilter.com/) 'e teşekkürler.
 
